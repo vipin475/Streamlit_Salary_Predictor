@@ -2,7 +2,6 @@
 import streamlit as st
 import pickle
 import numpy as np
-import sklearn
 
 # loading model from pkl file
 def load_model():
